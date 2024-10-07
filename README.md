@@ -20,4 +20,6 @@ On the [GWFish repository](https://github.com/janosch314/GWFish):
 - [GWFish tutorial on Google Colab](https://colab.research.google.com/github/janosch314/GWFish/blob/main/gwfish_tutorial.ipynb)
 - [GWFish documentation](https://gwfish.readthedocs.io/en/latest/)
 
-## 
+## Colab notebook
+
+This is the link: https://colab.research.google.com/github/jacopok/LGWA-2024-tutorial/blob/main/tutorial/exercises.ipynb
