@@ -1,0 +1,4 @@
+**/__pycache__/*
+**/*_files/*
+.ipynb_checkpoints/*
+**/.quarto_ipynb
