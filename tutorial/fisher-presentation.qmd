@@ -79,6 +79,7 @@ to a monochromatic unit strain;
 # Structure of LGWA
 
 LGWA is planned to have:
+
 - 4 stations, to reduce overall noise and perform active cancellation;
 - for each station, two orthogonal horizontal measurement channels.
 
@@ -287,6 +288,3 @@ Therefore, we just maximise over the sky position (right ascension and declinati
 ---
 
 ![](figures/Horizon_DWD.png)
-
-# Exercises: IMBH population
-
